@@ -1,3 +1,5 @@
+file_to_not_add
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
